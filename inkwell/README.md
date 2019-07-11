@@ -1,5 +1,5 @@
 # ofl-fonts // InkWell
-![Text Example](inkwell-bold.png)
+![Text Example](InkWell-Bold.png)
 
 ------
 

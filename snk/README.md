@@ -1,9 +1,9 @@
 # ofl-fonts // SNK
 ## SNK Heavy
-![Text Example](snk-heavy.png)
+![Text Example](SNK-heavy.png)
 
 ## SNK Thin
-![Text Example](snk-thin.png)
+![Text Example](SNK-thin.png)
 
 ------
 
