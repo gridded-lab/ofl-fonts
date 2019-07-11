@@ -1,5 +1,6 @@
 # Open Sourcery
 Open Sourcery is a modified version of Space Mono (fixed-width typeface family designed by Colophon Foundry for Google Fonts). Currently only one weight.
+![Text Example](opensourcery.png)
 
 ------
 
